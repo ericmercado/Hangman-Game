@@ -54,7 +54,11 @@ body {
     color: #40ff00;
     font-weight: bold;
 }
-
+.message2 {
+    font-size: 25px;
+    color:#B22222;
+    font-weight:bold;
+}
 #hangman-img-holder {
     width: 270px;
     height: 200px;

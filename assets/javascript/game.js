@@ -205,7 +205,7 @@ var hangman = {
             if (this.winOrLose) {
                 html += '<div class="message">You Won Like Trump !!!</div>';
             } else {
-                html += '<div class="message">You Lost Like Hillary !!!</div>';
+                html += '<div class="message2">You Lost Like Hillary !!!</div>';
             }
             html += '<div class="load">New Word will load in 4 seconds. ';
             html += ' <i class="fa fa-spinner fa-spin" aria-hidden="true"></i> </div>';
